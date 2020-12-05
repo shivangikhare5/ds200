@@ -2,7 +2,8 @@
 ## Module 4: Literature Review and Software Tooling
 
 #### Datasets used:
-State level Literacy rate in % from 1951-2011 and Gender based Literacy rate in % from 1951-2011 [1]
+State level Literacy rate in % from 1951-2011 and Gender based Literacy rate in % from 1951-2011 [1].
+
 The python file (main.py) generates the plots from the datasets.
 
 ### 1. Bar Plot
