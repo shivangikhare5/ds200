@@ -8,7 +8,7 @@ The python file (main.py) generates the plots from the datasets.
 
 ### 1. Bar Plot
   <img src="plots/Bar_plot.png"/>
-	**Observation**:\
+	#### Observation:\
 	From the above plot, we observe a continuous increase in literacy rate over the years for both the genders.
   Also, the gap between male and female literacy rate can be seen to be decreasing. For a developing country like India, 
   this plot shows a positive ray of hope towards achieving greater literacy rate with time.
